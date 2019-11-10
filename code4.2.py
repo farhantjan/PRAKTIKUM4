@@ -1,0 +1,10 @@
+prodi="Informatika UMMU"
+print(prodi)
+print(prodi[0])
+print("prodi [0] : ", prodi[0])
+print(prodi[:3])
+print("prodi [3] : ", prodi[3])
+print(prodi[1:])
+print("prodi [1:] : ", prodi[1:])
+print(prodi[:-1])
+print("prodi [-1] : ", prodi[-1])
